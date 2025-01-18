@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID === undefined ? '3uQmSLRR#Td2zbakKVApLltcOtSbfd9HRdklz43Cza07HwIqyuwU' : process.env.SESSION_ID,
+    SESSION_ID: process.env.SESSION_ID === undefined ? 'VAJIRA-MD=HNlDhRDB#oaa7zjEMg7KC24ZCO2M6uBxx_33ChGVBLPByXXI814Y' : process.env.SESSION_ID,
     OWNER_NUMBER: '94711453361',
    // Put news sender jid below you need to send news
     hiru: '120363190669566051@g.us',
